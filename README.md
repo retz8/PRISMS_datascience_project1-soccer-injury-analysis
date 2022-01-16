@@ -2,7 +2,7 @@
 Analyze soccer players injury data and stats per game data with Rstudio and Python  
 
 #1. Data Collection  
-Datasets were collected from www.transfermarkt.com and www.fbref.com with Python  	
+Datasets were collected from www.transfermarkt.com and www.fbref.com with Python  
 selenium library and google chrome driver were used  	
 a) injury data	
 : injury records of soccer players in 20-21 season top 7 leagues  	
