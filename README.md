@@ -19,10 +19,7 @@ size: 523768 x 8
 c) team game stats  
 : this is a data processed from a) and b), data about team results of each game  	
 columns: team	from	day	comp	round	venue	result	opponent	home score	opponent score	score diff  
-size: 95233 x 11  
-  
-(for uploaded R code, download r_injury_data, r_20-21season_7leagues_players_game_stat, team game stats)  
-(be sure to add encoding = "utf-8" when you read data in python and Rstudio)  
+size: 95233 x 11   
   
 #2. Data analysis  
 a) injury rates per position (posisiton level)  
@@ -31,3 +28,8 @@ a) injury rates per position (posisiton level)
 b) score difference vs tackles by team (team level)  
 : Does game result matters for tackle attempts which can lead to more injuries?  
 ![Score difference vs total tackles by team](https://user-images.githubusercontent.com/54821805/149681392-74f7f74e-a788-4eb1-b4d2-dfb54185f659.png)  
+  
+#3. Notes  
+(for uploaded R code, download r_injury_data, r_20-21season_7leagues_players_game_stat, team game stats)  
+(web scraping code for 20-21season_7leagues_players_game_stat is not uploaded)
+(be sure to add encoding = "utf-8" when you read data in python and Rstudio) 
