@@ -26,7 +26,7 @@ selenium library and google chrome driver were used
 #2. Data analysis  
 a) injury rates per position (posisiton level)  
 : Does position matters for injury frequency?  
-![image](https://user-images.githubusercontent.com/54821805/149682897-34a66c37-0e40-4101-b67e-0bb7533668e8.png)
+![image](https://user-images.githubusercontent.com/54821805/149682897-34a66c37-0e40-4101-b67e-0bb7533668e8.png)  
 Injury data and players game stats data were merged by "from" and "player name" columns. This merged dataframe is for injury cases. Normal cases (non-injury cases) is the rest of the data in players game stats data. I counted the number of injury cases and normal cases for each position. In this process, I had to split string of position column because some players had multiple positions in one game.  
 ![injury rates per position](https://user-images.githubusercontent.com/54821805/149681389-e2251928-8a71-422b-9386-80fba6f68f10.png)  
 The bar graph contains the normal group and injury group. A normal group is a group of positions of all players in matches. An injury group is a group of positions of injured players in matches. On the x-axis, 13 positions of football players are plotted. On the y-axis, percentage values of two groups are plotted. The percentage is calculated as follows: For example, the percentage of the injury group of FW positions is calculated by dividing the number of injured FW positions by the number of injured players in all positions.  
