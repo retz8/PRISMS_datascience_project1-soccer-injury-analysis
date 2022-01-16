@@ -17,7 +17,7 @@ columns: player from day comp round venue result team opponent	start	position mi
 size: 523768 x 8  
   
 c) team game stats  
-: data processed from a) and b), data about team results of each game  	
+: this is a data processed from a) and b), data about team results of each game  	
 columns: team	from	day	comp	round	venue	result	opponent	home score	opponent score	score diff  
 size: 95233 x 11  
   
