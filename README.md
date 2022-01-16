@@ -36,7 +36,8 @@ selenium library and google chrome driver were used
   : Does game result matters for tackle attempts which can lead to more injuries?  
     A team game stats data was used in this analysis. I merged players game stats data and team game stats data by "team" and "from" columns. After than I used group_by(team, from) and summarise() to calculate total number of tackles by team and to store score difference.  
   ![Score difference vs total tackles by team](https://user-images.githubusercontent.com/54821805/149681392-74f7f74e-a788-4eb1-b4d2-dfb54185f659.png)  
-    This is a box plot that shows the correlation between the game score difference and the number of tackles by team.  For example, the number of tackles by the winning team is recorded for the one point difference in the game score.  
+    This is a box plot that shows the correlation between the game score difference and the number of tackles by team.  For example, the number of tackles by the winning team is recorded for the one point difference in the game score. Unfortunately, I coudn't find meaningful meaning of this box plot.  
+  
 ## **#3. Notes**  
   (for uploaded R code, download r_injury_data, r_20-21season_7leagues_players_game_stat, team game stats)  
   (web scraping code for 20-21season_7leagues_players_game_stat is not uploaded)  
