@@ -31,5 +31,5 @@ b) score difference vs tackles by team (team level)
   
 #3. Notes  
 (for uploaded R code, download r_injury_data, r_20-21season_7leagues_players_game_stat, team game stats)  
-(web scraping code for 20-21season_7leagues_players_game_stat is not uploaded)
+(web scraping code for 20-21season_7leagues_players_game_stat is not uploaded)  
 (be sure to add encoding = "utf-8" when you read data in python and Rstudio) 
