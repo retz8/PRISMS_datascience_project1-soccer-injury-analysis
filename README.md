@@ -26,8 +26,8 @@ selenium library and google chrome driver were used
   : this is a data processed from a) and b), data about team results of each game  	
   columns: team	from	day	comp	round	venue	result	opponent	home score	opponent score	score diff  
   size: 95233 x 11   
+  ![cc](https://user-images.githubusercontent.com/54821805/149971635-482e6f53-0eab-4088-af1d-fac2795c7cae.png)  
   
-  ![image](https://user-images.githubusercontent.com/54821805/149682701-811cd9ca-3364-439a-ae94-6b96f3d082c8.png)
 
 ## **#3. Data analysis**  
   **a) injury rates per position (posisiton level)**  
